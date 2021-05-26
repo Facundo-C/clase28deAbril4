@@ -19,9 +19,9 @@ underline 2
 2. ~~tachado~~ 
 1. *__~~o todos~~__*
 
-<a href="http://google.com">Esto es un link HTML</a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Esto es un link HTML</a>
 [Esto es un link en markdown](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-![imagen](https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/styles/bi_570/public/media/image/2021/02/bi-2238511.jpg?itok=QqcsF0YZ)
+![imagen](https://www.fad.org.ar/wp-content/uploads/2020/10/circuloazul_dmd.jpg)
 
 ||c1|c2|c3|
 |-|-|-|-|
